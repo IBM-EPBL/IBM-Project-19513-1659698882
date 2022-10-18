@@ -20,7 +20,7 @@ TECHNOLOGY : ARTIFICIAL INTELLIGENCE
 Team ID : PNT2022TMID53936
               
 
-# **👩‍👦TEAM MEMBERS**    
+# **TEAM MEMBERS**    
 ```html                      
 
 Team Size : 4
