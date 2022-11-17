@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<head>
+    <title>Crude Oil Price Prediction </title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/web.css') }}">
+</head>
+<body>
+    <h1> 
+    Crude Oil Price Prediction </h1>
+    <form action="/predict" method="POST" enctype = "multipart/form-data">
+        <input type="text" name="val" placeholder="Enter the crude oil price for first 10 days" >
+         <br> <br> <br>
+        <input type="submit"/>
+    </form><br> <br>
+    <div>
+        {{prediction}}
+    </div>
+    <div>
+       Live Price:{{liv}}
+    </div>
+    
+</body>

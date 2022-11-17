@@ -1,0 +1,49 @@
+h1 {
+  text-align: center;
+            color: floralwhite;
+            font-size: 50px;
+            font-family: cursive;
+}
+
+p {
+    font-family: cursive;
+            color: ghostwhite;
+            margin-right: 30px;
+            margin-left: 30px;
+            text-align: center;
+            font-size: 20px;
+            font-weight: bold;
+}
+
+body{
+            background: url(back2.jpg);
+            background-repeat: no-repeat;
+            background-size: 100% 275%;
+        }
+        
+.button {
+    display: inline-block;
+    border-radius: 4px;
+    background-color: black;
+    border: none;
+    color: #FFFFFF;
+    text-align: center;
+    font-size: 20px;
+    padding: 12px;
+    width: 100px;
+    transition: all 0.5s;
+    cursor: pointer;
+    margin: 5px;
+}
+
+a{
+    font-size: 20px;
+    font-family: cursive;
+            color: ghostwhite;
+            margin-right: 30px;
+            margin-left: 30px;
+            text-align: center;
+            font-size: 20px;
+            font-weight: bold;
+}
+        
